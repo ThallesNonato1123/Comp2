@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa76f2d-63be-4c2d-9971-a2abc7e159d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Album.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Album.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figurinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figurinha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Armarios/Armarios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Armarios/src/Armarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BrincandoComStrings/BrincandoComStrings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BrincandoComStrings/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/Fracao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/LAB2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/src/AritmeticaUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/src/AritmeticaUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/src/Fracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fracao/src/FracaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/LAB3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/LojaVirtual.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/controle/Loja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/controle/Recibo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/exception/ItemEsgotadoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/produto/Brinquedo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/produto/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/produto/LivroOuBrinquedo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/produto/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/servico/Servico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/servico/ServicoEntregas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/modelo/servico/ServicoImpressao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/test/LojaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/util/Caminhao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/util/Dimensoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/util/Transportador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/util/Transportavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LojaVirtual/src/util/Vendavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primos/LAB1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primos/Primos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primos/src/ArrayComRodinhas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primos/src/Primos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Primos/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/LAB5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/RedeSocial.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/CalculadorIntersecao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/CalculadorIntersecaoEsperto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/CalculadorIntersecaoIngenuo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/CalculadorIntersecaoViaBuscaBinaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/ComparadorUsuarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/EncontraCaracterMaisFrequente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/EncontraPar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedeSocial/src/UsuarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/ReinoAnimal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Inseto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Morcego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/PastorAlemao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Poodle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/Zebra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReinoAnimal/src/ZoologicoDeMamiferos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/LAB4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/Siguinha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/AlunoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Disciplina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/MonitorDeDisciplina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Periodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Siguinha" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Siguinha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Siguinha/src/Turma.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1so2DoAkioyBxrFkq15a6EiLynX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa76f2d-63be-4c2d-9971-a2abc7e159d8" name="Default Changelist" comment="" />
+      <created>1621524505162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621524505162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
